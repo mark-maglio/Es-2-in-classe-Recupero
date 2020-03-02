@@ -48,6 +48,6 @@ namespace MarkWPF
             {
                 lbl_Tutto.Content += "\nIl numero è Dispari";
             }
-        } 
+        }
     }
 }
